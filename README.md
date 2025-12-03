@@ -36,7 +36,7 @@ plt.show()
 
 ### Results
 
-![Visualizations of Top Skills](project\images\da_1_results.png)
+![Visualizations of Top Skills](project/images/da_1_results.png)
 
 ### Insights
 
