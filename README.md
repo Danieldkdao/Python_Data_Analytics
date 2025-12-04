@@ -108,7 +108,7 @@ plt.show()
 ![Visualizations of Top Skills](project/images/da_1_results.png)
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
-### Insights
+### Insights:
 
 - Python is a versatile skill, highly demanded across all three roles, but most prominently for Data Scientists (72%) and Data Engineers (65%).
 
@@ -152,7 +152,7 @@ for col in df_da_us_percent.columns:
 ![Trending Top Skills for Data Analysts in the U.S.](project/images/da_2_results.png)
 *Bar graph visualizing the trending top skills for data analysts in the U.S. in 2023.*
 
-### Insights
+### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
 
 - Excel experienced a significant increase in demand starting around September, surpassing both Python and Tableau by the end of the year.
@@ -187,7 +187,7 @@ plt.show()
 ![(Salary Disrtribtuton of Data Jobs in the U.S.)](/project/images/da_3_results.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
-#### Insights
+#### Insights:
 
 - There's a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary potential, with up to $600K, indicating the high value placed on advanced data skills and experience in the industry.
 
@@ -234,7 +234,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 ![Highest paid and most in-demand skills for data-analysts in the U.S.](project/images/da_5_results.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the U.S.*
 
-#### Insights
+#### Insights:
 
 - The top graph shows specialized technical skills like `dplyr`, `Bitbucket`, and `Gitlab` are associated with higher slaries, some reaching up to $200K, suggesting that advanced technical proficiency an increase earning potential.
 
