@@ -106,6 +106,7 @@ plt.show()
 ### Results
 
 ![Visualizations of Top Skills](project/images/da_1_results.png)
+*Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
 ### Insights
 
